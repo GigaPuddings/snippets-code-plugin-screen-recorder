@@ -5276,7 +5276,7 @@ const nf = (e) => {
     target: "window",
     path: "/screen-recorder",
     name: "ScreenRecorder",
-    component: /* @__PURE__ */ pl(() => import("./index-DsWjRNuo.js"))
+    component: /* @__PURE__ */ pl(() => import("./index-Bo5Nn-XY.js"))
   });
 };
 export {
